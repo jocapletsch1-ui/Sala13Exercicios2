@@ -1,1 +1,1 @@
-# Sala13Exercicios2
+# Sala13ExerciciosJS
